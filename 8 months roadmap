@@ -1,0 +1,177 @@
+⭐ PHASE 1 — Core Foundations (Month 1, 4 hours/day)
+
+Your goal is to build the essential mathematics + Python foundation quickly and efficiently.
+
+🔹 Week 1 — Python for ML (Deliverables: 3 small projects)
+	•	Learn fast Python specifically for ML
+	•	Libraries: numpy, pandas, matplotlib, seaborn
+	•	Build small practice projects:
+	•	Data cleaning of a CSV
+	•	Visualization project (histograms, scatter plots)
+	•	Simple linear regression using numpy
+
+Resources
+	•	“Python for Data Analysis” – Wes McKinney
+	•	Kaggle Python Course (free)
+
+⸻
+
+🔹 Week 2 — Math for ML (Only what you need)
+
+Focus areas:
+	•	Linear algebra: vectors, matrices, dot product
+	•	Calculus: derivatives, gradients
+	•	Probability & statistics: distribution, expectation, variance
+	•	Optimization basics: gradient descent
+
+Outcomes:
+You should be able to understand how models learn.
+
+Resources:
+	•	3Blue1Brown videos
+	•	Khan Academy linear algebra + statistics
+
+⸻
+
+🔹 Week 3–4 — Data Handling Essentials
+	•	Exploratory Data Analysis (EDA)
+	•	Feature engineering
+	•	Train-test split
+	•	Handling missing values
+	•	Outliers
+	•	Normalization & scaling
+	•	Basic ML workflow
+
+Mini Projects:
+	•	Titanic dataset full EDA
+	•	House price prediction
+	•	Customer churn prediction
+
+By the end of Month 1, you will have 4–5 small ML-ready projects.
+
+⸻
+
+⭐ PHASE 2 — Machine Learning Foundations (Months 2–3, 8–10 hours/day)
+
+This is where you become a proper ML engineer.
+
+🔹 Supervised Learning (4–5 weeks)
+
+Learn algorithms deeply:
+	•	Linear Regression
+	•	Logistic Regression
+	•	Decision Trees
+	•	Random Forest
+	•	XGBoost / LightGBM
+	•	KNN
+	•	SVM
+	•	Regularization (L1, L2)
+	•	Cross-validation
+	•	Bias-variance
+	•	Feature importance
+
+Projects:
+	•	Credit card fraud detection
+	•	Loan default prediction
+	•	HR analytics (attrition prediction)
+	•	Sales forecasting
+
+⸻
+
+🔹 Unsupervised Learning (1–2 weeks)
+	•	K-means
+	•	Hierarchical clustering
+	•	PCA
+	•	Anomaly detection
+
+Projects:
+	•	Customer segmentation
+	•	Anomaly detection in sensor data
+
+⸻
+
+🔹 Model Evaluation (1 week)
+	•	Confusion matrix
+	•	ROC/AUC
+	•	Precision/Recall
+	•	F1 score
+	•	Regression metrics: MAE, MSE, RMSE
+
+Before moving forward, you should have 10+ solid ML projects.
+
+⸻
+
+⭐ PHASE 3 — Deep Learning & Modern ML (Months 4–6)
+
+You will now become a true ML engineer.
+
+⸻
+
+🔹 Neural Networks & Deep Learning (1 month)
+
+Learn using PyTorch or TensorFlow.
+	•	Perceptrons, activations
+	•	Backpropagation
+	•	Optimization: Adam, RMSProp
+	•	Regularization: dropout, batch norm
+	•	CNNs
+	•	RNNs, LSTMs
+	•	Transformers (basic intro)
+
+Projects:
+	•	Handwritten digit classification (MNIST)
+	•	Dog vs cat classifier
+	•	Simple sentiment analysis
+	•	Text classification
+	•	Image segmentation (optional)
+
+⸻
+
+🔹 NLP (2–3 weeks)
+	•	Tokenization
+	•	Word embeddings
+	•	LSTMs, GRUs
+	•	BERT, DistilBERT
+	•	HuggingFace pipelines
+
+Projects:
+	•	Fake news detection
+	•	Chatbot (basic)
+	•	Named entity recognition
+
+⸻
+
+🔹 Modern AI: LLMs & GenAI (2–3 weeks)
+	•	Use pretrained LLMs
+	•	Finetuning
+	•	RAG applications
+	•	Vector databases
+
+Projects:
+	•	ChatGPT-like QA system
+	•	Document search engine
+
+⸻
+
+⭐ PHASE 4 — Specialization & Career Preparation (Months 6–8)
+
+Choose a specialization based on job market:
+
+🔹 Specializations:
+	1.	ML for Software Engineering
+	•	Model deployment
+	•	ML system design
+	•	MLOps (CI/CD, Docker, Kubernetes)
+	•	Cloud ML (AWS, GCP)
+	2.	NLP Engineering
+	•	Transformers
+	•	Llama models
+	•	Finetuning & RAG
+	3.	Computer Vision Engineer
+	•	CNNs, ViT
+	•	Object detection
+	•	Image segmentation
+	4.	AI Systems + LLM Engineer
+	•	Build & deploy production LLMs
+	•	Train custom models
+	•	On-device AI
